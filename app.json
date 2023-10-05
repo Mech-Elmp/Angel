@@ -27,11 +27,11 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "23223511"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "c2207a11155ad050097e981fdd5fd0b1"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot (your id).",
